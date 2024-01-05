@@ -1,6 +1,6 @@
 # Palindrome Certification Project
 
-- Live Site URL [Live Site]()
+- Live Site URL [Live Site](https://nurularifin83.github.io/Palindrome-Checker/)
 
 
 To test this project, below is the list of Palindrome word (in property NAME):
